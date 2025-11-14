@@ -59,7 +59,18 @@ const config: Config = {
         alt: 'Scala Adoption Tracker',
         src: 'img/logo.svg',
       },
-      items: [],
+      items: [
+          {
+              href: 'https://github.com/business4s/scala-adoption-tracker',
+              label: 'GitHub',
+              position: 'right',
+          },
+          {
+              href: 'https://bit.ly/business4s-discord',
+              label: 'Discord',
+              position: 'right',
+          },
+      ],
     },
     footer: {
       style: 'dark',
