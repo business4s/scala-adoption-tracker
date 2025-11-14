@@ -19,10 +19,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Scala CLI artifacts
-.bsp/
-.bloop/
-.scala-build/
-scripts/.bsp/
-scripts/.bloop/
-scripts/.scala-build/
+.idea
