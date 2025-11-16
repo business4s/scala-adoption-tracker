@@ -1,0 +1,9 @@
+name: Apache Spark
+logoUrl: https://spark.apache.org/images/spark-logo-rev.svg
+website: https://spark.apache.org/
+usage:
+scala3AdoptionStatus: null
+category: OSS project
+size: 42000 # stars
+sources:
+  - https://github.com/apache/spark - 66% Scala as of 2025-11-16
