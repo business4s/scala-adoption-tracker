@@ -1,0 +1,9 @@
+name: Mill
+logoUrl: https://avatars.githubusercontent.com/u/79346799
+website: https://mill-build.org/
+description: "A better build tool for Java, Scala and Kotlin"
+scala3AdoptionStatus: full
+category: OSS project
+size: 2600 # stars
+sources:
+  - https://github.com/com-lihaoyi/mill - 85% Scala as of 2025-11-16

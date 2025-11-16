@@ -1,0 +1,9 @@
+name: daml
+logoUrl: https://avatars.githubusercontent.com/u/46327217
+website: https://github.com/digital-asset/daml
+description: "Smart contract language"
+scala3AdoptionStatus: null
+category: OSS project
+size: 850 # stars
+sources:
+  - "https://github.com/digital-asset/daml - 82.9% Scala as of 2025-11-16"

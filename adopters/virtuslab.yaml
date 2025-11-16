@@ -1,7 +1,7 @@
 name: VirtusLab
 logoUrl: https://avatars.githubusercontent.com/u/5324131
 website: https://virtuslab.com/
-usage: Builds tooling such as Scala CLI and helps enterprises migrate to Scala 3.
+description: Builds tooling such as Scala CLI and helps enterprises migrate to Scala 3.
 scala3AdoptionStatus: null
 category: consulting company
 size: 350

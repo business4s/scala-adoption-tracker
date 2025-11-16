@@ -64,7 +64,7 @@ function AdopterCard({adopter}: { adopter: Adopter }): ReactNode {
                     loading="lazy"
                 />
             </div>
-            <p className="adopter-usage">{adopter.usage}</p>
+            <p className="adopter-usage">{adopter.description}</p>
             {createStatusElement(adopter.scala3AdoptionStatus)}
             <SourceList sources={adopter.sources}/>
         </article>

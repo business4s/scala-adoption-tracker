@@ -1,7 +1,7 @@
 name: Apple
 logoUrl: https://avatars.githubusercontent.com/u/10639145
 website: https://apple.com
-usage: "Used in Apple Maps at least"
+description: "Used in Apple Maps at least"
 scala3AdoptionStatus: null
 category: product company
 size: 160000

@@ -1,7 +1,7 @@
 name: Chisel
 logoUrl: https://avatars.githubusercontent.com/u/46612642
 website: https://www.chisel-lang.org/
-usage: ""
+description: "Hardware Design Language"
 scala3AdoptionStatus: full
 category: OSS project
 size: 4500 # stars

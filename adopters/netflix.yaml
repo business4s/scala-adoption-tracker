@@ -1,7 +1,7 @@
 name: Netflix
 logoUrl: https://avatars.githubusercontent.com/u/913567
 website: https://netflix.com
-usage: "Used for data engineering"
+description: "Used for data engineering"
 scala3AdoptionStatus: null
 category: product company
 size: 14000

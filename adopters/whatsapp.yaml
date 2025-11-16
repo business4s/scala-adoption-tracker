@@ -1,7 +1,7 @@
 name: WhatsApp
 logoUrl: https://avatars.githubusercontent.com/u/5508982
 website: https://www.whatsapp.com/
-usage: ""
+description: ""
 scala3AdoptionStatus: partial
 category: product company
 size: 100 # 55 before meta acquisition

@@ -1,7 +1,7 @@
 name: SwissBorg
 logoUrl: https://avatars.githubusercontent.com/u/28651481
 website: https://swissborg.com/
-usage: "The whole backend is written almost purely in Scala."
+description: "Crypto wealth management platform. More than 1M Scala LOC"
 scala3AdoptionStatus: full
 category: product company
 size: 200

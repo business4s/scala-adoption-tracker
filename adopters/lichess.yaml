@@ -1,9 +1,9 @@
 name: Lichess
 logoUrl: https://avatars.githubusercontent.com/u/16491637
 website: https://www.lichess.org/
-usage: The whole site is written in Scala
+description: "Free/libre, open-source chess server."
 scala3AdoptionStatus: full
 category: OSS project
 size: 17000 # stars
 sources:
-  - https://github.com/lichess-org/lila
+  - https://github.com/lichess-org/lila - 63% Scala as of 2025-11-16

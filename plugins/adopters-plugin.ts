@@ -10,7 +10,7 @@ export interface Adopter {
   name: string;
   logoUrl: string;
   website: string;
-  usage: string;
+  description: string;
   scala3AdoptionStatus: AdoptionStatus | null;
   category: Category;
   size: number;
@@ -113,7 +113,7 @@ function loadAdopters(siteDir: string): AdoptersContent {
         name: validateString((data as any).name, 'name', fileName),
         logoUrl: validateString((data as any).logoUrl, 'logoUrl', fileName),
         website: validateString((data as any).website, 'website', fileName),
-        usage: validateString((data as any).usage, 'usage', fileName),
+        description: validateString((data as any).description, 'description', fileName),
         scala3AdoptionStatus: parseAdoptionStatus((data as any).scala3AdoptionStatus, fileName),
         category: parseCategory((data as any).category, fileName),
         size: validateNumber((data as any).size, 'size', fileName),

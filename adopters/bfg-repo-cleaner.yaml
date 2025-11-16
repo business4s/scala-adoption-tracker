@@ -1,0 +1,10 @@
+name: bfg-repo-cleaner
+logoUrl: https://avatars.githubusercontent.com/u/52038
+website: https://github.com/rtyley/bfg-repo-cleaner
+description: "Removes large or troublesome blobs from git"
+scala3AdoptionStatus: planned
+category: OSS project
+size: 12000 # stars
+sources:
+  - https://github.com/rtyley/bfg-repo-cleaner - 99.9% Scala as of 2025-11-16
+  - "Scala 3 migration PR: https://github.com/rtyley/bfg-repo-cleaner/pull/478"

@@ -1,0 +1,9 @@
+name: Joern
+logoUrl: https://avatars.githubusercontent.com/u/71844681
+website: https://joern.io/
+description: "Open-source code analysis platform."
+scala3AdoptionStatus: full
+category: OSS project
+size: 2700 # stars
+sources:
+  - https://github.com/joernio/joern

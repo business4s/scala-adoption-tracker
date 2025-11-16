@@ -1,7 +1,7 @@
 name: SoftwareMill
 logoUrl: https://avatars.githubusercontent.com/u/322765
 website: https://softwaremill.com/
-usage: Consulting company delivering Scala projects, trainings, and OSS like sttp.
+description: Consulting company delivering Scala projects, trainings, and OSS like sttp.
 scala3AdoptionStatus: null
 category: consulting company
 size: 100

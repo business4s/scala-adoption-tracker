@@ -1,7 +1,7 @@
 name: Apache Spark
 logoUrl: https://spark.apache.org/images/spark-logo-rev.svg
 website: https://spark.apache.org/
-usage: ""
+description: "Unified engine for large-scale data analytics"
 scala3AdoptionStatus: null
 category: OSS project
 size: 42000 # stars
