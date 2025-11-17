@@ -1,0 +1,9 @@
+name: Chipyard
+logoUrl: https://avatars.githubusercontent.com/u/998197
+website: https://chipyard.readthedocs.io/en/stable/
+description: "Agile RISC-V SoC Design Framework"
+scala3AdoptionStatus: null
+category: OSS project
+size: 2000 # stars
+sources:
+  - https://github.com/ucb-bar/chipyard - 42% Scala as of 2025-11-16

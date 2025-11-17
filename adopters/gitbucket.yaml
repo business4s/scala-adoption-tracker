@@ -1,0 +1,9 @@
+name: Gitbucket
+logoUrl: https://avatars.githubusercontent.com/u/11145783
+website: https://gitbucket.github.io/
+description: "A Git platform with easy installation, high extensibility & GitHub API compatibility"
+scala3AdoptionStatus: null
+category: OSS project
+size: 9300 # stars
+sources:
+  - https://github.com/gitbucket/gitbucket - 67.5% Scala as of 2025-11-16

@@ -1,0 +1,9 @@
+name: Delta
+logoUrl: https://avatars.githubusercontent.com/u/49767398
+website: https://delta.io
+description: "Open-source storage framework that enables building a Lakehouse architecture"
+scala3AdoptionStatus: null
+category: OSS project
+size: 8400 # stars
+sources:
+  - https://github.com/delta-io/delta - 52% Scala as of 2025-11-16
