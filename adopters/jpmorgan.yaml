@@ -1,0 +1,9 @@
+name: JPMorgan Chase
+logoUrl: https://avatars.githubusercontent.com/u/22640571?s=200&v=4
+website: https://www.jpmorganchase.com/
+description: "Investment banking, wealth management, and institutional securities."
+scala3AdoptionStatus: partial # to be verified
+category: product company
+size: 300000
+sources:
+  - https://archives.scaladays.org/2025/editions/2025/talks/hands-on-capture-checking - speaker bio

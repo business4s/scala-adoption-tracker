@@ -1,0 +1,9 @@
+name: Nordea
+logoUrl: https://avatars.githubusercontent.com/u/17826262
+website: https://www.nordea.com/en
+description: "Leading Nordic financial institution. Scala is used for their data platform."
+scala3AdoptionStatus: null
+category: product company
+size: 33000
+sources:
+  - Multiple job postings over the years, the last one from 2024 - https://www.linkedin.com/jobs/view/scala-developer-with-hadoop-to-the-core-banking-platform-team-at-nordea-3784085803/?originalSubdomain=pl

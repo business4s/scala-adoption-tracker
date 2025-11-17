@@ -1,0 +1,10 @@
+name: Morgan Stanley
+logoUrl: https://avatars.githubusercontent.com/u/72878956
+website: https://www.morganstanley.com/
+description: "Investment banking, wealth management, and institutional securities."
+scala3AdoptionStatus: partial # to be verified
+category: product company
+size: 80000
+sources:
+  - https://github.com/morganstanley/optimus-cirrus
+  - https://www.youtube.com/watch?v=bCak15WmhXs
