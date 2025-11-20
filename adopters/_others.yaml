@@ -83,6 +83,8 @@
   website: https://www.chartboost.com/
 - name: CiBO Technologies
   website: http://www.cibotechnologies.com
+
+  # https://x.com/easymonkeysnper/status/1991297765616545965
 - name: ClearScore
   website: https://www.clearscore.com
 - name: Cloudfarms
@@ -97,6 +99,10 @@
   website: https://www.collibra.com/
 - name: Colisweb
   website: https://www.colisweb.com
+
+  # https://www.reddit.com/r/scala/comments/1p16zop/comment/nppfm2c/
+- name: Comcast
+  website: https://www.comcast.com/
 - name: Compellon
   website: https://www.compellon.com/
 - name: Complicated Robot
@@ -133,6 +139,10 @@
   website: https://www.demandbase.com
 - name: Demyst
   website: https://demyst.com
+
+  # https://x.com/easymonkeysnper/status/1991297765616545965
+- name: Depop
+  website: https://depop.com/
 - name: Deutsche Telekom IoT GmbH
   website: https://iot.telekom.com/en
 - name: Devsisters
