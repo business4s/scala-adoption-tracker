@@ -1,0 +1,10 @@
+name: Snapchat
+logoUrl: https://logo.clearbit.com/snapchat.com
+website: https://snapchat.com
+description: >
+  Messaging and social media app.
+scala3AdoptionStatus: null
+sources:
+  - https://github.com/Snapchat/GiGL - 50% Scala and active as of 2025-11-16
+size: 4700
+category: product company

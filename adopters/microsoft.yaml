@@ -1,0 +1,11 @@
+name: Microsoft
+logoUrl: https://logo.clearbit.com/microsoft.com
+website: https://www.microsoft.com/
+description: |
+  Global technology company.
+scala3AdoptionStatus: null
+category: product company
+size: 220000
+sources:
+  - https://github.com/microsoft?q=&type=all&language=scala - Multiple active Scala repos
+  - https://www.reddit.com/r/scala/comments/1p16zop/comment/npvbu97/
