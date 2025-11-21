@@ -1,0 +1,9 @@
+name: NetLogo
+logoUrl: https://avatars.githubusercontent.com/u/767367
+website: https://www.netlogo.org
+description: "Programming language for scientists, students, and teachers"
+scala3AdoptionStatus: full
+category: OSS project
+size: 1100 # stars
+sources:
+  - https://github.com/netlogo/netlogo - 140K lines of Scala
