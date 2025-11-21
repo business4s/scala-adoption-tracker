@@ -1,0 +1,9 @@
+name: Nixiesearch
+logoUrl: https://www.nixiesearch.ai/img/logo.png
+website: https://www.nixiesearch.ai
+description: "Open-source serverless search engine."
+scala3AdoptionStatus: full
+category: OSS project
+size: 550 # stars
+sources:
+  - https://github.com/nixiesearch/nixiesearch - 98% Scala3 as of 2025-11-19
