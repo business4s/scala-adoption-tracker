@@ -1,7 +1,7 @@
 name: VirtusLab
 logoUrl: https://avatars.githubusercontent.com/u/5324131
 website: https://virtuslab.com/
-description: Builds tooling such as Scala CLI and helps enterprises migrate to Scala 3.
+description: The company behind Scala 3. Maintains core Scala tooling, including the compiler, Metals and Scala CLI. Builds and consults Scala commercial software solutions.
 scala3AdoptionStatus: null
 category: consulting company
 size: 350
