@@ -87,6 +87,8 @@
   # https://x.com/easymonkeysnper/status/1991297765616545965
 - name: ClearScore
   website: https://www.clearscore.com
+- name: CleverOne
+  website: https://cleverone.io
 - name: Cloudfarms
   website: https://cloudfarms.com
 - name: Codacy
@@ -393,6 +395,8 @@
   website: https://www.signicat.com/
 - name: Sky
   website: https://www.sky.com/
+- name: Sonepar Digiplan
+  website: https://sonepar-digiplan.de/
 - name: Sony
   website: https://www.sony.com/
 - name: SpotX
