@@ -1,0 +1,9 @@
+name: innFactory
+logoUrl: https://avatars.githubusercontent.com/u/24720191
+website: https://innfactory.de
+description: Consulting company delivering Cloud- & AI-native plattforms with Scala.
+scala3AdoptionStatus: null
+category: consulting company
+size: 30
+sources:
+  - https://github.com/innFactory/smithy4play
