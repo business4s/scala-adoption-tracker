@@ -1,0 +1,10 @@
+name: MOIA
+logoUrl: https://avatars.githubusercontent.com/u/76769468
+website: https://www.moia.io
+description: "Ridepooling subsidiary of Volkswagen Group"
+scala3AdoptionStatus: null
+category: product company
+size: 1300
+sources:
+  - https://github.com/moia-oss?q=&type=all&language=scala
+  - https://www.meetup.com/de-de/scala-hamburg/events/311873345/ # (MOIA as host)
