@@ -1,0 +1,9 @@
+name: BudgetBakers
+logoUrl: https://pbs.twimg.com/profile_images/598839880215449600/P8lOXcKm_400x400.png
+website: https://budgetbakers.com/
+description: "Fintech company that develops personal finance management tools to help users save money and manage their finances effectively."
+size: 50
+scala3AdoptionStatus: partial
+category: product company
+sources:
+  - https://budgetbakers.com/technology-team/
