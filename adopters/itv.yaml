@@ -3,8 +3,8 @@ logoUrl: https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/ITV_plc_2025_logo.
 website: https://www.itv.com/
 description: "ITVX runs 100s of microservices in Scala for the backend of ITVX, serving millions of daily users on Scala 3 with typelevel stack"
 scala3AdoptionStatus: partial # most microservices using Scala 3
-category: product company
-size: 6613 # ITV Annual Report 2024
 sources:
   - https://youtu.be/nlcT7psMjcE # Scala in the City @ ITV August 2023  
-  - https://www.youtube.com/watch?v=C_mNr69U-T8 # Life at ITV - 16 Aug 2022 - Senior Scala Engineer 
+  - https://youtu.be/C_mNr69U-T8 # Life at ITV - 16 Aug 2022 - Senior Scala Engineer 
+size: 6613 # ITV Annual Report 2024
+category: product company
