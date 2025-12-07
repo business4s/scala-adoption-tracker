@@ -1,0 +1,9 @@
+name: AutoScout24
+logoUrl: https://avatars.githubusercontent.com/u/60146476?s=200&v=4
+website: https://www.autoscout24.com
+description: "The largest pan-European online car market"
+scala3AdoptionStatus: null
+category: product company
+size: 600
+sources:
+  - https://tech.autoscout24.com/blog/posts/journey-with-scala/
