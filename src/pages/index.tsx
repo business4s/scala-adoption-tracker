@@ -107,7 +107,7 @@ export default function Home(): ReactNode {
                             {key === 'product company' && unverified.length > 0 && (
                                 <div>
                                     <Heading as="h3">And possibly {unverified.length} more!</Heading>
-                                    <p>List below has been scrapped from various sources but the entries have not been verified.</p>
+                                    <p>List below has been scraped from various sources but the entries have not been verified.</p>
                                     <details className="adopter-unverified">
                                         <summary>Expand</summary>
                                         <div className="adopters-grid">
