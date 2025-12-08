@@ -1,0 +1,10 @@
+name: ING Bank
+logoUrl: https://logo.clearbit.com/ing.com
+website: https://ing.com
+description: >
+  Global bank with a strong European base.
+scala3AdoptionStatus: partial
+sources:
+  - https://github.com/business4s/scala-adoption-tracker/issues/18
+size: 60 000
+category: product company
