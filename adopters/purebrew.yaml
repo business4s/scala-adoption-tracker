@@ -1,0 +1,10 @@
+name: pure brew
+logoUrl: https://avatars.githubusercontent.com/u/37301368
+website: https://purebrew.tech/
+description: A group of passionate software developers providing software consulting specialising in full-stack development, distributed systems and serverless applications.
+scala3AdoptionStatus: full
+category: consulting company
+size: 50
+sources:
+  - https://purebrew.tech/
+  - https://www.youtube.com/watch?v=dcYZ5HQzAmc
