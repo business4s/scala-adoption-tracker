@@ -1,0 +1,14 @@
+name: Trimble SketchUp
+logoUrl: https://sketchup.trimble.com/assets/favicon/favicon.svg
+website: https://sketchup.trimble.com
+description: >
+  3D CAD modelling system. 
+  Scala is used for analysis and context web services including: 
+  Add Location (https://help.sketchup.com/en/sketchup/geolocation-sketchup), 
+  Daylight and Energy analysis including Sefaira (https://help.sketchup.com/en/extending-sketchup/sefaira), 
+  PreDesign (https://help.sketchup.com/en/predesign-sketchup).
+scala3AdoptionStatus: planned
+category: product company
+size: 11000
+sources:
+  - 
