@@ -11,4 +11,4 @@ scala3AdoptionStatus: planned
 category: product company
 size: 11000
 sources:
-  - 
+  - https://github.com/business4s/scala-adoption-tracker/pull/27
