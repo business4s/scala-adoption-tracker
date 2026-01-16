@@ -1,0 +1,13 @@
+name: Devsisters
+logoUrl: https://yt3.googleusercontent.com/YLfvtwqh4kMadZt34GBJzal7Fpx9qhpGeeSVs2Ud9wh3myKUwa_9t8OzB4WGYTzPTy6ptRpm=s900-c-k-c0x00ffffff-no-rj
+website: https://www.devsisters.com/
+description: >
+  Scala is used to develop the game servers for CookieRun: Kingdom as well as other games.
+scala3AdoptionStatus: full
+sources:
+  - https://www.youtube.com/watch?v=2UPbFUiJyCs - Anatomy of a Scala Game Server - Pierre Ricadat | Lambda Days 2025
+  - https://tech.devsisters.com/posts/scala-for-game-server-development
+  - https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field
+  - https://github.com/devsisters/shardcake
+size: 800
+category: product company
