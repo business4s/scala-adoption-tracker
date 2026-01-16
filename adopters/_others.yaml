@@ -1,4 +1,3 @@
-
 # Unverified adopters (candidates) — simple list of {name, website}
 # Entries cannot duplicate verified adopters
 # Feel free to add comments beside entries with more information
@@ -148,8 +147,6 @@
   website: https://depop.com/
 - name: Deutsche Telekom IoT GmbH
   website: https://iot.telekom.com/en
-- name: Devsisters
-  website: https://devsisters.com/
 - name: DHL Parcel Netherlands
   website: https://www.werkenbijdhl.nl/it
 - name: Doomoolmori
