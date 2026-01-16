@@ -8,7 +8,6 @@ sources:
   - https://www.youtube.com/watch?v=2UPbFUiJyCs - Anatomy of a Scala Game Server - Pierre Ricadat | Lambda Days 2025
   - https://tech.devsisters.com/posts/scala-for-game-server-development
   - https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field
-  - https://blog.pierre-ricadat.com/the-tri-z-architecture-a-pattern-for-layering-zio-applications-in-scala
   - https://github.com/devsisters/shardcake
 size: 800
 category: product company
