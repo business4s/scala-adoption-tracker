@@ -4,7 +4,10 @@ A minimal Docusaurus site that crowdsources public evidence of Scala adoption ac
 
 ## Adding or updating adopters
 
-We welcome all contributions! You can find all entries in the `/adopters` directory. 
+We welcome all contributions! The easiest way is the [submission form](https://business4s.org/scala-adoption-tracker/submit)
+— it generates the file for you and takes you straight to GitHub to open a PR.
+
+Alternatively, edit the `/adopters` directory directly.
 Each file should contain a single YAML object with the following fields:
 
 - `name` – company or project name

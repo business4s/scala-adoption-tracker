@@ -1,6 +1,7 @@
 import type {ReactNode} from 'react';
 import Heading from '@theme/Heading';
 import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
 import useGlobalData from '@docusaurus/useGlobalData';
 
 import type {
@@ -88,6 +89,9 @@ export default function Home(): ReactNode {
                         A curated look at where Scala shows up in the real world—product teams, foundational
                         OSS, and consulting shops. Everything listed here links back to public proof.
                     </p>
+                    <Link className="button button--primary add-entry-cta" to="/submit">
+                        Add your company or project
+                    </Link>
                 </header>
 
                 {categoryOrder.map(({key, label}) => {
