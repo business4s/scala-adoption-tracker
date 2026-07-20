@@ -1,0 +1,12 @@
+name: NeverBlink
+logoUrl: https://avatars.githubusercontent.com/u/196035316
+website: https://neverblink.eu
+description: Scala is the main language of the knowledge graph and neurosymbolic
+  AI platform of NeverBlink.
+scala3AdoptionStatus: full
+category: product company
+size: 10
+sources:
+  - https://github.com/NeverBlink-OSS/linkml-scala
+  - https://github.com/Jelly-RDF/jelly-jvm
+  - https://www.linkedin.com/posts/piotr-sowinski_i-often-get-strange-looks-when-i-say-that-activity-7456637431795212288-uDE6
