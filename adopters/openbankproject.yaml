@@ -1,0 +1,9 @@
+name: Open Bank Project
+logoUrl: https://www.openbankproject.com/wp-content/uploads/2023/09/Layer_1.png
+website: https://www.openbankproject.com/
+description: "Open source banking API"
+size: 1600 # github stars
+scala3AdoptionStatus: null
+category: product company
+sources:
+  - https://github.com/OpenBankProject/OBP-API
