@@ -1,0 +1,11 @@
+name: Amazon
+logoUrl: https://avatars.githubusercontent.com/u/2232217
+website: https://aws.amazon.com/
+description: "Technology company offering e-commerce, cloud computing (AWS), and digital services"
+scala3AdoptionStatus: null
+category: product company
+size: 143000
+sources:
+  - https://www.amazon.jobs/en/jobs/3104767/delivery-consultant-supply-chain-aws-professional-services
+  - https://www.amazon.jobs/en/jobs/3112061/software-dev-engineer-ii-pxf-learn
+  - https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&business_category%5B%5D=amazon-web-services&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=scala&city=&country=&region=&county=&query_options=
